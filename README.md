@@ -40,6 +40,6 @@ Notice: If you try to manually build the iso with mkarchiso, you may come across
 
 
 
-**<a href="https://www.gnu.org/licenses/gpl-3.0.html">GNU general Public License</a>**
+This software is licensed under the **<a href="https://www.gnu.org/licenses/gpl-3.0.html">GNU General Public License 3.0</a>**.
 
 
