@@ -36,6 +36,6 @@ It uses ALCI's config for the Calamares Installer and comes with dwm in the live
 
 
 
-**This program is licensed under the <a href="https://www.gnu.org/licenses/gpl-3.0.html">GNU general Public License</a>**
+**<a href="https://www.gnu.org/licenses/gpl-3.0.html">GNU general Public License</a>**
 
 
