@@ -1,6 +1,6 @@
 ![2025-01-01_17-34-removebg-preview](https://github.com/user-attachments/assets/a63f89f5-0b10-4983-80ee-a8f69e4c5128) 
 
-! the source code may not have all the files due to GitHub's file limit.
+! the source code does not have all the files due to GitHub's file limit.
 
 #                               NoltixOS: An <a href="https://awesomewm.org/">awesome</a> distribution!
 
