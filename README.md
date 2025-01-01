@@ -24,6 +24,10 @@ Notice: If you try to manually build the iso with mkarchiso, you may come across
    
      You may already know this but NoltixOS uses the Calamares Installer to quickly get the OS setup.
 
+* SDDM built-in
+
+   SDDM is an great display manager for Linux. It is the one that NoltixOS normally comes with.
+
 # Installation
 1. Grab yourself the ISO image from https://www.naturl.link/awer (Link may change over time, Due to newer versions etc.)
 2. Flash it to an USB Stick.
