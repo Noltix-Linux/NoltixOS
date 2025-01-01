@@ -1,6 +1,6 @@
 ![2025-01-01_17-34-removebg-preview](https://github.com/user-attachments/assets/a63f89f5-0b10-4983-80ee-a8f69e4c5128) 
 
-#                               NoltixOS: An <a href="awesomewm.org/">awesome</a> distribution!
+#                               NoltixOS: An <a href="https://awesomewm.org/">awesome</a> distribution!
 
 NoltixOS is an GNU/Linux distro that is based off Arch and it's goal is to make Arch Linux accesible to more people.
 
