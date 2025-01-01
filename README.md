@@ -25,7 +25,7 @@ It uses ALCI's config for the Calamares Installer and comes with dwm in the live
      You may already know this but NoltixOS uses the Calamares Installer to quickly get the OS setup.
 
 # Installation
-1. Grab yourself the ISO image from https://www.naturl.link/aqwd (Link may change over time, Due to newer versions etc.)
+1. Grab yourself the ISO image from https://www.naturl.link/awer (Link may change over time, Due to newer versions etc.)
 2. Flash it to an USB Stick.
 
     If you are using Windows, I reccomend using Rufus.
