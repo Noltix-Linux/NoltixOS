@@ -1,12 +1,12 @@
 ![2025-01-01_17-34-removebg-preview](https://github.com/user-attachments/assets/a63f89f5-0b10-4983-80ee-a8f69e4c5128) 
 
-! the source code does not have all the files due to GitHub's file limit.
-
 #                               NoltixOS: An <a href="https://awesomewm.org/">awesome</a> distribution!
 
 NoltixOS is an GNU/Linux distro that is based off Arch and it's goal is to make Arch Linux accesible to more people.
 
 It uses ALCI's config for the Calamares Installer and comes with dwm in the live session, and AwesomeWM & SDDM after the installation.
+
+Notice: If you try to manually build the iso with mkarchiso, you may come across the fact it doesnt have the calamares installer, well to fix that just add ALCI's config for calamares (https://github.com/arch-linux-calamares-installer/alci-calamares-config) In /airootfs/etc and then you're pretty much done.
 
 
 # Feautures
