@@ -6,7 +6,8 @@ NoltixOS is an GNU/Linux distro that is based off Arch and it's goal is to make 
 
 It uses ALCI's config for the Calamares Installer and comes with dwm in the live session, and AwesomeWM & SDDM after the installation.
 
-Notice: If you try to manually build the iso with mkarchiso, you may come across the fact it doesnt have the calamares installer, well to fix that just add ALCI's config for calamares (https://github.com/arch-linux-calamares-installer/alci-calamares-config) In /airootfs/etc and then you're pretty much done.
+Notice: If the network does NOT work, Please log out of the GUI, by logging out and pressing CTRL + WINDOWS + ALT + f5. If you dont see your prompt, type ctrl+c.
+Then check out https://wiki.archlinux.org/title/Network_configuration#Network_interfaces
 
 
 # Feautures
@@ -49,6 +50,12 @@ PulseAudio or PipeWire (otherwise Volume widget won't let you choose input/outpu
 
 then:
 > git clone https://github.com/Relz/awesome-wm-theme.git ~/.config/awesome
+
+after that:
+ To open terminal, press Windows+enter
+ and to open a program, run the terminal and type the program name, for example to open FireFox type:
+ > firefox
+in the terminal.
 
 
 
