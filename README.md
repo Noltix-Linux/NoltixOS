@@ -37,18 +37,6 @@ Notice: If you try to manually build the iso with mkarchiso, you may come across
 4. Enter the one that is appropriate to your PC/Laptop/anything.
 5. Wait, Install using the ALCI Config for Calamares
 
-To install an user friendlier gui after completing setup, then follow these steps:
-
-Install:
-wireless_tools (otherwise Network widget won't work)
-redshift (otherwise Brightness widget won't let you setup color temperature)
-geoclue (otherwise Brightness widget won't compute dusk time and dawn time for your geolocation)
-PulseAudio or PipeWire (otherwise Volume widget won't let you choose input/output devices)
-using sudo pacman.
-
-Then:
-> git clone https://github.com/Relz/awesome-wm-theme.git ~/.config/awesome
-
 
 
 This software is licensed under the **<a href="https://www.gnu.org/licenses/gpl-3.0.html">GNU General Public License 3.0</a>**.
