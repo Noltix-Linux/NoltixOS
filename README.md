@@ -41,6 +41,7 @@ To install a Friendlier GUI after setup,
 
 install using sudo pacman:
 vicious (otherwise The theme won't work)
+alacritty (otherwise Terminal won't work and you won't be able to run any other program)
 wireless_tools (otherwise Network widget won't work)
 redshift (otherwise Brightness widget won't let you setup color temperature)
 geoclue (otherwise Brightness widget won't compute dusk time and dawn time for your geolocation)
